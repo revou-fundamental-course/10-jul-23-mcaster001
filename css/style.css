@@ -15,7 +15,6 @@ body {
 .input {
     background-color: transparent;
     color: rgb(233, 232, 232);
-    width: 100px;
 }
 .calculate {
     background-color: lightgray;
