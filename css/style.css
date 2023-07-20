@@ -69,12 +69,12 @@ body {
     color: rgb(233, 232, 232);
 }
 .output {
-    background-color: transparent;
+    background-color: rgb(32, 38, 46);
     color: rgb(233, 232, 232);
     text-align: center;
 }
 .notebmi {
-    background-color: transparent;
+    background-color: rgb(32, 38, 46);
     color: rgb(233, 232, 232);
     text-align: center;
 }
