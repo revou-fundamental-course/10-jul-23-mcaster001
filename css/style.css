@@ -1,0 +1,102 @@
+body {
+    background-color: rgb(32, 38, 46);
+    opacity: 90%;
+}
+#Header{
+    background-color: transparent;
+    color: rgb(233, 232, 232);
+}
+.P {
+    background-color: transparent;
+    color: rgb(233, 232, 232);
+    text-align: justify;
+    max-width: fit-content;
+}
+.input {
+    background-color: transparent;
+    color: rgb(233, 232, 232);
+    width: 100%;
+}
+.calculate {
+    background-color: lightgray;
+    color: rgb(32, 38, 46);
+    width: auto;
+}
+.calculate:hover {
+    background-color: lightseagreen;
+    color: white;
+}
+.reset {
+    background-color: lightgray;
+    color: rgb(32, 38, 46);
+    width: auto;
+}
+.reset:hover {
+    background-color: lightcoral;
+    color: white;
+}
+.forminput {
+    background: rgb(205, 88, 136);
+    padding: 15px;
+    border-radius: 5px;
+    width: fit-content;
+    height: 200px;
+}
+.tabel, th, td {
+    border-style: solid;
+    text-align: center;
+    width: fit-content;
+    font-size: smaller;
+    background-color: rgb(32, 38, 46);
+    color: rgb(233, 232, 232);
+}
+.formoutput {
+    background: rgb(205, 88, 136);
+    padding: 15px;
+    border-radius: 5px;
+    width: fit-content;
+    height: 200px;
+}
+.form-kiri {
+    margin-right: 30px;
+    float:left;
+}
+.form-kanan {
+    float : left;
+}
+.result {
+    background-color: transparent;
+    color: rgb(233, 232, 232);
+}
+.output {
+    background-color: transparent;
+    color: rgb(233, 232, 232);
+    text-align: center;
+}
+.notebmi {
+    background-color: transparent;
+    color: rgb(233, 232, 232);
+    text-align: center;
+}
+.uw {
+    color: rgb(0, 121, 255);
+}
+.ni {
+    color: rgb(0, 223, 162);
+}
+.ow {
+    color: rgb(246, 250, 112);
+}
+.ob {
+    color: rgb(255, 0, 96);
+}
+#colour1 {
+    background-color: rgb(233, 232, 232);
+    color: rgb(32, 38, 46);
+    font-style: italic;
+}
+#colour2 {
+    background-color: rgb(233, 232, 232);
+    color: rgb(32, 38, 46);
+    font-style: italic;
+}
